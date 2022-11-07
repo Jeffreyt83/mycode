@@ -1,5 +1,6 @@
 # mycode
 Tracking my code
+Learning how to version control projects with git
 
 # mycode (Project Title)
 
